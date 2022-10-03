@@ -1,9 +1,9 @@
 import Player from '@vimeo/player';
-//console.log (Player);
 
-//import { throttle } from 'lodash';
+import { throttle } from 'lodash';
 
 const iframe = document.querySelector('iframe');
+
 const player = new Player(iframe);
 
 player.on('timeupdate',  throttle( e => {
@@ -16,3 +16,4 @@ player
 .catch(function (error) {
     console.error(error)
 });
+
