@@ -1,11 +1,15 @@
 ## Methods for working with localStorage, SimpleLightbox library and Vimeo Player API
 The project is assembled using the parcel.
 Here we will discuss the main methods of working with local storage.
+
 • **images gallery** Using the package manager for JavaScript ```npm```, the SimpleLightbox library is installed.
-• **video player** Added Vimeo libraries as a project dependency via npm.
-                   Saved playback time to local storage.
-                   When reloading the page, resume playback from the saved position.
-                   The lodash.throttle library was added to the project and made so that the playback time is updated in the repository no more than once per second.
+
+• **video player**:
+1. Added Vimeo libraries as a project dependency via npm.
+2. Saved playback time to local storage.
+3. When reloading the page, resume playback from the saved position.
+4. The lodash.throttle library was added to the project and made so that the playback time is updated in the repository no more than once per second.
+                   
 • **feedback form** Created a script that saves field values to local storage when the user types something.
 ## Usage
 To use this repository, follow these steps:
