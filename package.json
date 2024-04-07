@@ -1,18 +1,18 @@
 {
-  "name": "parcel-project-template",
+  "name": "gallery-videoplayer-form-feedback",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ShevchenkoOl.github.io/goit-js-hw-08",
+  "homepage": "https://ShevchenkoOl.github.io/gallery_videPlayer_formFeedback",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /gallery_videPlayer_formFeedback/"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Oleksii Shevchenko <uzlabini@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
