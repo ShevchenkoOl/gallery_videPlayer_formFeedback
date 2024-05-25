@@ -13,9 +13,13 @@ Here we will discuss the main methods of working with local storage.
 • **feedback form** Created a script that saves field values to local storage when the user types something.
 ## Usage
 To use this repository, follow these steps:
-1. Clone the repository to your local computer;
-2. Go to the repository directory;
-3. Run each task following the instructions described in the corresponding task file.
+1. Clone the repository to your local computer ```git clone https://github.com/ShevchenkoOl/gallery_videPlayer_formFeedback.git```;
+   
+2. use ```npm install``` command to install package dependencies
 
+3. Navigate to the relevant section to explore the corresponding material.
+
+4. Open files and study the provided code examples.
+   
 ## Author
 This repository was created and maintained by [Oleksii Shevchenko](https://shevchenkool.github.io/portfolio/). Questions, suggestions, and feedback can be directed to [email](uzlabini@gmail.com) or [linkedin profile](linkedin.com/in/oleksii-shevchenko-535ab61b8).
